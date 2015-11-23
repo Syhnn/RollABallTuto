@@ -4,6 +4,8 @@ using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
+    public int pickupstoWin;
+
     public float speed;
     public Text countText;
     public Text winText;
@@ -49,7 +51,7 @@ public class PlayerController : MonoBehaviour
     void SetCountText()
     {
         countText.text = "Count : " + count.ToString();
-        if (count >= 12)
+        if (count >= pickupstoWin)
         {
             winText.text = "You Win !";
         }
