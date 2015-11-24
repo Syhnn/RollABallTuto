@@ -10,6 +10,7 @@ My goal here is to quickly finish this tutorial, and then, add stuff to improve 
 * Finish the original tutorial - **done**
 * Changing the level - **done**
 * Adding somesound - **done**
+* Different sound when picking up cubes/coins
 * Adding music
 * Multiple pickups - **done**
 * Changing the level more
