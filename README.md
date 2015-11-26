@@ -13,6 +13,7 @@ My goal here is to quickly finish this tutorial, and then, add stuff to improve 
 * Different sound when picking up cubes/coins
 * Adding music
 * Multiple pickups - **done**
-* Changing the level more
-* Multiple levels
+* Multiple levels --> change level by falling through the floor on the next one
+* Try out the new skybox
+* Try out the new texture
 * and so on...
